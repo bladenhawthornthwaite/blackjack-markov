@@ -4,7 +4,7 @@ A Markov chain model of blackjack, built to derive optimal player strategy and m
 
 **Bladen Hawthornthwaite, Dov Karlin, Lukas Horvat** — Discrete Math & Probability, Duke University, Spring 2026
 
-![Poster](docs/poster.jpg)
+![Poster](poster.jpg)
 
 ## Research Question
 
