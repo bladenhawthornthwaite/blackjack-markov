@@ -22,8 +22,7 @@ Can we reverse-engineer a strategy for optimal blackjack play using Markov chain
 
 | File | Description |
 |---|---|
-| `Blackjack_Opt.ipynb` | Markov chain construction, dealer transition matrix, optimal play derivation (standing/hitting EV), Hi-Lo true count integration |
-| `Blackjack_Simulator.ipynb` | Monte Carlo simulation engine — runs and compares strategies across thousands of simulated hands |
+| `Blackjack_Opt.ipynb` | Markov chain construction, dealer transition matrix, optimal play derivation (standing/hitting EV), Hi-Lo true count integration + Monte Carlo simulation engine — runs and compares strategies across thousands of simulated hands|
 | `blackjack_simulator.jsx` | React port of the simulation engine for interactive play/visualization |
 | `docs/poster.jpg` | Final presentation poster |
 
